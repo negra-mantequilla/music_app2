@@ -1,3 +1,54 @@
+.app {
+  
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 70px;
+}
+
+.divCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+
+.notificationStyle {
+  margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
